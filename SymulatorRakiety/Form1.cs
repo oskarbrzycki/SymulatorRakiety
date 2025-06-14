@@ -13,7 +13,7 @@ namespace SymulatorRakiety
         private float totalTime = 5f;    // Rakieta leci przez X sekund
         private float elapsedTime = 0f;
         private float deltaT = 0.05f;    // 50 ms = 0.05 sekundy
-        private int speed = 5;           // Ilość pikseli, o które rakieta przesuwa się w górę co tick
+        private int speed = 5;           // Ilość pikseli, o które rakieta przesuwa się w górę co jeden tick
 
         struct Rakieta
         {
