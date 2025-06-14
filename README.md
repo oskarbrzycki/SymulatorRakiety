@@ -12,16 +12,17 @@ Projekt został stworzony w języku **C# (.NET Framework)** z wykorzystaniem bib
 
 ---
 
-## 🛠️ Funkcjonalności
+## 🛠️ Funkcje
 
 - **Wprowadzanie danych** – użytkownik podaje masę rakiety, siłę ciągu oraz opór
 - **Warunek fizyczny** – jeśli siła ciągu nie przewyższa sił oporu i grawitacji, rakieta nie startuje
 - **Animacja** – rakieta płynnie unosi się w górę na ekranie, z aktualizacją wysokości i czasu
 - **Symulacja w czasie rzeczywistym** – oparta na timerze, z możliwością stopniowej wizualizacji
+- **Zapisywanie wyników w pliku tekstowym** 
 
 ---
 
-## 🧪 Instrukcja użytkowania
+## 🧪 Instrukcje dla użytkowania
 
 ### ✅ Format wprowadzania danych
 
