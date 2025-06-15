@@ -97,7 +97,7 @@ namespace SymulatorRakiety
             rakieta.SilaCiągu = double.Parse(txtSila.Text);
             rakieta.CzasLotu = double.Parse(txtCzas.Text);
             rakieta.Opór = 100; // Stała wartość oporu
-            
+
 
             List<string> raport = new List<string>();
             Symuluj(rakieta, 1, raport);
