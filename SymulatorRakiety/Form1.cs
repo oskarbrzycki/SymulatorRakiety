@@ -104,7 +104,10 @@ namespace SymulatorRakiety
 
             //Zapisywanie wyników do logu
             txtLog.Lines = raport.ToArray();
-            System.IO.File.WriteAllLines("raport_symulacji.txt", raport);
+            System.IO.File.WriteAllLines("raport_symulacji.txt", raport.ToArray());
+            string sciezka = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\raport_symulacji.txt";
+            System.IO.File.WriteAllLines(sciezka, raport.ToArray());
+
 
             // Start animacji
             timerLot.Start();
@@ -171,6 +174,7 @@ namespace SymulatorRakiety
         {
 
         }
+
 
 
 
