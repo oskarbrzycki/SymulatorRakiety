@@ -1,0 +1,2 @@
+Sekunda: 1, Wysokość: 495,60 m, Prędkość: 991,19 m/s
+Sekunda: 2, Wysokość: 1982,38 m, Prędkość: 1982,38 m/s

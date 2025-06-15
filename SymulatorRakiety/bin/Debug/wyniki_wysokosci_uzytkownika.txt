@@ -1,0 +1,5 @@
+Sekunda: 1, Wysokość: 6,24 m
+Sekunda: 2, Wysokość: 24,97 m
+Sekunda: 3, Wysokość: 56,19 m
+Sekunda: 4, Wysokość: 99,90 m
+Sekunda: 5, Wysokość: 156,09 m
